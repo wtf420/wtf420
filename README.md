@@ -13,7 +13,7 @@ My name is Nguyễn Duy Minh Tuấn, currently a college student at VNUHCM-UIT, 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Spaceship_Invaders&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/wtf420/Mercenaries">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Mercenaries&theme=merko" />
 </a>
