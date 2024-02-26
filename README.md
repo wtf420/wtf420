@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Nguyễn Duy Minh Tuấn, currently a college student at VNUHCM-UIT, majoring in Software Engineering.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-duy-minh-b062a3263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/wtf420) 
