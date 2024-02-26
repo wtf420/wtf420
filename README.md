@@ -1,16 +1,38 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+## 📫 How to reach me: 
 
-<!--
-**wtf420/wtf420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-duy-minh-b062a3263/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/wtf420) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Tuấn's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtf420)](https://github.com/wtf420/github-readme-stats)
+
+## Unity Projects: 
+<a href="https://github.com/wtf420/Spaceship_Invaders">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Spaceship_Invaders&theme=radical" />
+</a>    
+<a href="https://github.com/uvipen/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Mercenaries&theme=merko" />
+</a>
+
+## Other Projects: 
+<a href="https://github.com/wtf420/Software_Technology/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Software_Technology&theme=gruvbox" />
+</a>    
+<a href="https://github.com/wtf420/DigitalWaiter">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=DigitalWaiter&theme=dark" />
+</a>
+
+<a href="https://github.com/quangbruh123/Visual-progamming-project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quangbruh123&repo=Visual-progamming-project&theme=onedark" />
+</a>    
+<a href="https://github.com/athenaabcxyz/CookingRecipeManager_ReactNative">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=athenaabcxyz&repo=CookingRecipeManager_ReactNative&theme=cobalt" />
+</a>
