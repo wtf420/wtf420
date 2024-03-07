@@ -19,9 +19,9 @@ My name is Nguyễn Duy Minh Tuấn, currently a college student at VNUHCM-UIT, 
 </a>
 
 ## Other Projects: 
-<a href="https://github.com/wtf420/Software_Technology/">
+<a href="https://github.com/bcong017/Software_Technology">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wtf420&repo=Software_Technology&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bcong017&repo=Software_Technology&theme=gruvbox" />
 </a>    
 <a href="https://github.com/wtf420/DigitalWaiter">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -35,4 +35,12 @@ My name is Nguyễn Duy Minh Tuấn, currently a college student at VNUHCM-UIT, 
 <a href="https://github.com/athenaabcxyz/CookingRecipeManager_ReactNative">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=athenaabcxyz&repo=CookingRecipeManager_ReactNative&theme=cobalt" />
+</a>
+<a href="https://github.com/thaiduong1705/OOP-Project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaiduong1705&repo=OOP-Project&theme=cobalt" />
+</a>
+<a href="https://github.com/thaiduong1705/OOP-Project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaiduong1705&repo=OOP-Project&theme=cobalt" />
 </a>
